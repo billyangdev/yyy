@@ -1,7 +1,1 @@
-# yyy
-
-cstrct
-sumitclub
-jp.co.tis.kokuho
-jp.co.tis.ka
-jp.co
+This project will develope some base C function for network connection. Most of programer like hash table when they process connection. But the struct in this project is more quickly and less resourc costing.
